@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\casitas",
+    "\\casitas\\casitas"
   ],
-  "SelectedNode": "\\casitas.sln",
+  "SelectedNode": "\\casitas\\casitas\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
